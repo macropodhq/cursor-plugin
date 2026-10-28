@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bugherd",
+  "version": "1.0.0",
+  "description": "Official BugHerd MCP server. Sign in with OAuth to create and manage visual feedback from Cursor.",
+  "author": {
+    "name": "BugHerd"
+  },
+  "homepage": "https://bugherd.com/feature/mcp",
+  "repository": "https://github.com/macropodhq/cursor-plugin",
+  "keywords": ["bugherd", "mcp", "feedback"]
+}
